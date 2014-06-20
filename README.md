@@ -6,10 +6,15 @@
  
 This implementation shows the use of following Design Patterns:
  - Flyweight Design Pattern --
-      - The Flyweight is used to save space. Flyweight factory is implemented which takes an unicode code point (a char in Java) returns the Flyweight character object for the character. 
-      - In this factory the input will be a triple:
-                  - The font name (Times, Courier, etc), point size (12, 13, etc) and style (bold, italic, underline etc). 
+      - The Flyweight is used to save space. Here, Flyweights are characters. 
+      
+ - Factory Design Pattern --
+     - Flyweight factory is implemented which takes an unicode code point (a char in Java) returns the Flyweight character object for the character. 
+     - In this factory the input will be a triple:
+          - The font name (Times, Courier, etc), point size (12, 13, etc) and style (bold, italic, underline etc). 
                   
+ - Composite Design Pattern --                 
+     - To represent the contents of a document.
  
  ### Run Array
  
