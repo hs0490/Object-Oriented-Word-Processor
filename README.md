@@ -34,7 +34,7 @@ This implementation shows the use of following Design Patterns:
             
             
  #### Link to Check The Size Of Object In Java :
-   - [Getting the size of an Object](http://java.dzone.com/articles/java-getting-size-object).
+   - [Getting the size of an Object](http://java.dzone.com/articles/java-getting-size-object)
  
  
 
