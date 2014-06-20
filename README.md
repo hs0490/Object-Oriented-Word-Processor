@@ -1,4 +1,4 @@
-# Object Oriented WordProcessor/Text Editor
+## Object Oriented WordProcessor/Text Editor
 
 - This  word processor uses objects to represent characters.
 - One reason word processor represent characters as objects is that they use the Composite pattern to represent the contents of a document. 
